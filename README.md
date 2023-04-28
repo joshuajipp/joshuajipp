@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @joshuajipp
-- 👀 I’m interested in data engineering and backend web development.
+- 👀 Feel free to check out what I have worked on.
 
 
 <!---
